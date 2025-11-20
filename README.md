@@ -1,7 +1,7 @@
 # Rajeh – Saudi Legal AI Assistant  
 RAG + LLM Powered Legal Intelligence
 
-## 📌 Project Overview
+## Project Overview
 **Rajeh** is an intelligent legal assistant specialized in Saudi law, built using **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**.  
 The system analyzes Saudi regulations and legal documents to provide **accurate answers with explicit legal references**.
 
@@ -9,7 +9,7 @@ The goal of Rajeh is to enable individuals and organizations to receive clear, r
 
 ---
 
-## 🎯 Key Objective
+## Key Objective
 To deliver a smart legal system capable of:
 - Providing accurate, trustworthy answers.
 - Citing the official legal source for every response.
@@ -18,7 +18,7 @@ To deliver a smart legal system capable of:
 
 ---
 
-## 🔍 System Workflow
+## System Workflow
 
 ### 1. **Document Extraction**
 Collecting Saudi legal systems and regulations from official sources.
@@ -61,7 +61,7 @@ A simple ready-to-use UI that allows users to ask legal questions and receive in
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - LangChain  
 - FAISS Vector Database  
@@ -73,7 +73,7 @@ A simple ready-to-use UI that allows users to ask legal questions and receive in
 
 ---
 
-## 🚀 Features
+## Features
 - Accurate legal answers  
 - Official reference citations  
 - Fast legal search  
